@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 // import {  } from './Fakedb';
 import { getDb } from './Nextdb';
+import { CreateDb } from './Repet';
 
 const MainCard = ({p}) => {
     // const [link, setLink] = useState(null)
@@ -9,7 +10,7 @@ const MainCard = ({p}) => {
         // setLink()
         // console.log(parseInt(id));
         // localStorage.setItem(id, 1)
-        getDb(id)
+        CreateDb(id)
     }
     return (
         <div>
