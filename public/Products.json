@@ -6,27 +6,27 @@
     },
     {
         "id":"2",
-        "name":"pen",
-        "price":"100"
+        "name":"pencil",
+        "price":"200"
     },
     {
         "id":"3",
-        "name":"pen",
-        "price":"100"
+        "name":"book",
+        "price":"300"
     },
     {
         "id":"4",
-        "name":"pen",
-        "price":"100"
+        "name":"dairy",
+        "price":"50"
     },
     {
         "id":"5",
-        "name":"pen",
-        "price":"100"
+        "name":"page",
+        "price":"150"
     },
     {
         "id":"6",
-        "name":"pen",
-        "price":"100"
+        "name":"marker",
+        "price":"500"
     }
 ]
